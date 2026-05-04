@@ -163,7 +163,7 @@ This confirms that the Group Policy has been successfully applied and SmartScree
 | Technology | Purpose |
 |---|---|
 | Microsoft Azure | Cloud infrastructure hosting |
-| Windows Server 2022 | Operating system for both VMs |
+| Windows Server 2019 | Operating system for both VMs |
 | Active Directory Domain Services | Domain management |
 | Group Policy Management | Policy enforcement |
 | Microsoft Defender SmartScreen | Phishing & malware protection |
